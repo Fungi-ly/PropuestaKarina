@@ -3,7 +3,7 @@
 		   Propuesta Técnico-Económica: App Transporte de pasajeros
 
 1. Introducción:
-`
+
 En la era de la digitalización y la movilidad constante, la creación de una aplicación de transporte de pasajeros representa una respuesta a una creciente necesidad en nuestras sociedades modernas. El desplazamiento eficiente y cómodo de las personas en entornos urbanos y rurales es un desafío continuo que puede abordarse mediante la tecnología y la innovación. Esta propuesta  tiene como objetivo presentar un plan estratégico sólido para el desarrollo y lanzamiento de una aplicación de transporte de pasajeros, diseñada para proporcionar a los usuarios una experiencia segura, conveniente y adaptable a sus necesidades de desplazamiento.
 
 La aplicación que proponemos se fundamentará en las mejores prácticas de la industria y aprovechará las últimas innovaciones tecnológicas. A lo largo de esta propuesta, se explorarán los aspectos esenciales que sustentarán el éxito de este proyecto. Desde la concepción y desarrollo de la plataforma tecnológica hasta la implementación de estrategias comerciales y la generación de ingresos sostenibles, nuestro objetivo es crear una aplicación de transporte que ofrezca una solución confiable y eficaz para las necesidades de movilidad de pasajeros y que a su vez sea económicamente viable.
