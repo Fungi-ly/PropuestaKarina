@@ -1,5 +1,4 @@
-`# PropuestaKarina
-Propuesta comercial para desarrollo de App 
+
 
 		   Propuesta Técnico-Económica: App Transporte de pasajeros
 
